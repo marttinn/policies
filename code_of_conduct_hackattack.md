@@ -63,8 +63,6 @@ Additionally, community organizers are available to help community members engag
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify GOVERNING_BODY with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [hi@hackattack.club]
 
-[NOTE: Every organization's governing policies should dictate how you handle warnings and expulsions of community members. It is strongly recommended that you mention those policies here or in Section 7 and that you include a mechanism for addressing grievances.]
-
 One offense becomes a warning. Two offenses become an expulsion. Expulsion could come from serious offenses.
 
 ## 8. Scope
